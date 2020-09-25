@@ -9,6 +9,6 @@ Examining MovieLens movie data to build a clustering model which can recommend m
 
 MovieLens Small Datasets - Movies, Ratings, and Tags - Taken from: https://grouplens.org/datasets/movielens/ on 9/23/20
 
-The small data sets were selected because they will reduce overall model complexity while still providing a sufficiently large number of samples (over 9000 movies)
+The small data sets were selected because they will reduce overall model complexity while still providing a sufficiently large number of samples (9742 movie samples)
 
 ### Results
